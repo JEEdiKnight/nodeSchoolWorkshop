@@ -1,1 +1,1 @@
-readme for git-init test
+readme for git-init test after change
