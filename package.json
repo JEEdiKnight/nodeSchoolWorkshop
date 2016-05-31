@@ -1,0 +1,17 @@
+{
+  "name": "diegogil",
+  "version": "1.0.1",
+  "description": "Diego Gil - Software Engineer",
+  "author": "Diego Gil",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "nodejs",
+    "costaricajs"
+  ],
+  "license": "MIT"
+}
